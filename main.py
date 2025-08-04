@@ -605,7 +605,7 @@ def main_menu(token):
 {LIGHT_CYAN}{BOLD}[ account & servers ]{RESET}
    {LIGHT_CYAN}01{RESET}  list servers
    {LIGHT_CYAN}02{RESET}  dm user by id
-   {LIGHT_CYAN}03{RESET}  leave all servers
+   {LIGHT_RED}03{RESET}  leave all servers
    {LIGHT_CYAN}04{RESET}  change server nickname
    {LIGHT_CYAN}05{RESET}  edit status message
    {LIGHT_CYAN}06{RESET}  edit status mode
