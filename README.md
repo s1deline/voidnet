@@ -3,9 +3,7 @@
 a python selfbot for discord built to automate, spam, and run wild with a user token.
 
 > [!CAUTION]
-> VOIDNET does not follow discor's TOS. using this script causes a very slight chance your ip to be temporarliy blocked by discord for 1-3 days if you abuse this too much (with spamming or something along those lines). during this time period, you can still use a vpn to access discord, but it is worth adding this warning.
-
----
+> VOIDNET does not follow discord's TOS. using this script causes a very slight chance your ip to be temporarliy blocked by discord for 1-3 days if you abuse this too much (with spamming or something along those lines). during this time period, you can still use a vpn to access discord, but it is worth adding this warning.
 
 ## what the fuck is voidnet?
 
@@ -57,3 +55,7 @@ voidnet uses user tokens to send requests to discord’s api and do everything a
 * this tool is for people who don’t give a fuck about rules and want to automate their user accounts.
 * this is not made to use on other people! ignore that the last repo we posted was a discord token logger this totally has nothing to do with it! (it does)
 * use responsibly (or don’t).
+
+---
+
+![logo](assets/image.png)
